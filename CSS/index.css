@@ -1,0 +1,187 @@
+.btn{
+    border-radius: 8px;
+    border: 1px solid black;
+    margin-left: 20px;
+
+}
+
+.btn:hover{
+    border: none;
+
+}
+
+.nav-item{
+margin-left: 200px;
+padding-left: 0px;
+}
+
+
+.nav-item a:hover{
+    text-decoration: none;
+    color: blue;
+    }
+
+    .btn a{
+        text-decoration: none;
+        color: white;
+
+    }
+
+
+
+    .ma{
+        text-align: center;
+        font-size: 60px;
+    }
+
+    
+    .me{
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .mo{
+        background-color: rgb(68, 0, 255);
+        border-radius: 5px;
+        width: 150px;
+        padding-left: 33px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        
+    }
+
+
+    .mo a{
+       text-decoration: none;
+       color: whitesmoke;
+       text-align: center;
+    
+    }
+
+    .pa{
+        text-align: center;
+        font-size: 50px;
+        margin-top: 100px;
+    }
+    .pa a{
+      color: black;
+      text-decoration: none;
+    }
+    
+    .card img{
+        width: 270px;
+        padding-left: 50px;
+    }
+
+    .card:hover{
+        transform: scale(.94);
+        }
+
+        .vv a{
+            text-decoration: none;
+            color: blue;
+            font-size: 25px;
+        }
+
+
+        .bi{
+            text-align: center;
+            margin-top: 50px;
+        }
+        
+        .bii{
+            text-align: center;
+        }
+
+        .mi{
+            text-align: center;
+        }
+        
+        
+        .mii{
+            text-align: center;
+            margin-left: 10px;
+        }
+    
+
+
+        .cardd img{
+            border-radius: 150px;
+            width: 100px;
+            margin-left: 100px;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            
+        }
+        
+        
+        .cardd{
+          height: 300px;
+          border: 1px solid rosybrown;
+          border-radius: 3px ;
+          margin-left: 40px;
+          background-color: black;
+          color: white;
+          width: 278px;
+        }
+       .mm{
+        color: aqua;
+        margin-left: 10px;
+       }
+       
+
+     .btn{
+        border: 1px white;
+
+     }
+   .form-select{
+    margin-top: -20px;
+    margin-left: 190px;
+   }
+
+.fo{
+   
+}
+
+.navbar{
+    background-color: blue;
+    height: 20vh;
+}
+
+.container-fluidd{
+    margin-left: 500px;
+}
+
+.container-fluidd a {
+    color: white;
+}
+
+.container-fluidd :hover{
+    color: white;
+}
+
+span{
+    color: blue;
+}
+
+
+.pe{
+    background-color: rgb(68, 0, 255);
+    border-radius: 5px;
+    width: 150px;
+    padding-left: 33px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 40px;
+    
+}
+
+.pe a{
+    text-decoration: none;
+    color: whitesmoke;
+    text-align: center;
+ 
+ }
+ .fa{
+    text-align: center;
+ }
